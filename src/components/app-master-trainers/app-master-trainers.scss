@@ -1,3 +1,34 @@
-.hello {
-	color: red;
+.content {
+	padding: 10px;
+}
+
+.table__row {
+	display: flex;
+	margin-bottom: 8px;
+
+	&:nth-child(odd) {
+		background: #efefef;
+	}
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+
+	&--head {
+		background: #ccc;
+		padding: 5px;
+	}
+}
+
+.table__column {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 5px 10px;
+
+
+	&:first-child {
+		flex-basis: 40%;
+		justify-content: flex-start;
+	}
 }

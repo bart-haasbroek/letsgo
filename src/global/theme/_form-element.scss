@@ -1,0 +1,70 @@
+$color-border: #ccc;
+$color-positive: green;
+
+.form-element--radio,
+.form-element--checkbox {
+	input[type='radio'],
+	input[type='checkbox'] {
+		display: none;
+	}
+
+	.form-element__button {
+		position: relative;
+		border-bottom: 1px solid $color-border;
+		cursor: pointer;
+	}
+
+	label {
+		position: relative;
+		display: block;
+		padding: 14px 0 15px 35px;
+
+		&:before {
+			position: absolute;
+			top: 15px;
+			left: 0;
+			box-sizing: border-box;
+			width: 22px;
+			height: 22px;
+			border: 1px solid $color-border;
+			border-radius: 2px;
+			content: '';
+		}
+	}
+
+	input:checked + label .form-element-inner:after,
+	input:checked + label .form-element-inner:before {
+		opacity: 1;
+	}
+
+	input[type=checkbox]:checked + label:before {
+		background: $color-positive;
+	}
+
+	.form-element-inner {
+		position: absolute;
+		top: 15px;
+		left: 0;
+		display: flex;
+		width: 22px;
+		height: 22px;
+		justify-content: center;
+		align-items: center;
+
+		&:after {
+			position: absolute;
+			margin-top: -1px;
+			width: 8px;
+			height: 4px;
+			border-bottom: 2px solid white;
+			border-left: 2px solid white;
+			content: '';
+			transform: rotate(-45deg);
+			opacity: 0;
+		}
+
+		&:before {
+			opacity: 0;
+		}
+	}
+}

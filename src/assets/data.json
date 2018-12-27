@@ -1,14 +1,50 @@
 {
 	"events": [
-		"Babysit a Slowpoke in Pewter City for a Big Pearl",
-		"Buy some Pewter Crunchies at Pewter PMC",
-		"Battle Mina at Vermilion Port",
-		"Visit Diglett in the Warden’s house in Fushcia City for a Nugget",
-		"Return and battle the Elite Four",
-		"Pick up hidden items in Mt. Moon, Pokemon Tower, and Rocket Game Corner",
-		"Find a fossil in Cerulean Cave",
-		"Hidden Heart Scales in Seafoam Islands",
-		"Battle Green in Cerulean City (after becoming Champion)"
+		{
+			"id": 1,
+			"title": "Babysit a Slowpoke in Pewter City for a Big Pearl",
+			"extraInfo": ""
+		},
+		{
+			"id": 2,
+			"title": "Buy some Pewter Crunchies at Pewter PMC",
+			"extraInfo": ""
+		},
+		{
+			"id": 3,
+			"title": "Battle Mina at Vermilion Port",
+			"extraInfo": ""
+		},
+		{
+			"id": 4,
+			"title": "Return and battle the Elite Four",
+			"extraInfo": ""
+		},
+		{
+			"id": 5,
+			"title": "Visit Diglett in the Warden’s house in Fushcia City for a Nugget",
+			"extraInfo": ""
+		},
+		{
+			"id": 6,
+			"title": "Pick up hidden items in Mt. Moon, Pokemon Tower, and Rocket Game Corner",
+			"extraInfo": ""
+		},
+		{
+			"id": 7,
+			"title": "Find a fossil in Cerulean Cave",
+			"extraInfo": ""
+		},
+		{
+			"id": 8,
+			"title": "Hidden Heart Scales in Seafoam Islands",
+			"extraInfo": ""
+		},
+		{
+			"id": 9,
+			"title": "Battle Green in Cerulean City (after becoming Champion)",
+			"extraInfo": ""
+		}
 	],
 	"coach-trainers": [
 		{
@@ -207,152 +243,152 @@
 		{
 			"id": 27,
 			"name": "Sandshrew",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 11"
 		},
 		{
 			"id": 28,
 			"name": "Sandslash",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 7"
 		},
 		{
 			"id": 29,
-			"name": "Nidoran",
+			"name": "Nidoran (female)",
 			"level": 65,
-			"location": "Route"
+			"location": "Route 3"
 		},
 		{
 			"id": 30,
 			"name": "Nidorina",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Underground Path 7-8"
 		},
 		{
 			"id": 31,
 			"name": "Nidoqueen",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 23"
 		},
 		{
 			"id": 32,
-			"name": "Nidoran",
-			"level": 65,
-			"location": "Route"
+			"name": "Nidoran (male)",
+			"level": 70,
+			"location": "Route 4"
 		},
 		{
 			"id": 33,
 			"name": "Nidorino",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 4"
 		},
 		{
 			"id": 34,
 			"name": "Nidoking",
-			"level": 65,
-			"location": "Route"
+			"level": 80,
+			"location": "Route 23"
 		},
 		{
 			"id": 35,
 			"name": "Clefairy",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Saffron City"
 		},
 		{
 			"id": 36,
 			"name": "Clefable",
-			"level": 65,
-			"location": "Route"
+			"level": 80,
+			"location": "Mt. Moon"
 		},
 		{
 			"id": 37,
 			"name": "Vulpix",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 6"
 		},
 		{
 			"id": 38,
 			"name": "Ninetales",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 9"
 		},
 		{
 			"id": 39,
 			"name": "Jigglypuff",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Pewter City"
 		},
 		{
 			"id": 40,
 			"name": "Wigglytuff",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Silph Co."
 		},
 		{
 			"id": 41,
 			"name": "Zubat",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Rock Tunnel"
 		},
 		{
 			"id": 42,
 			"name": "Golbat",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Victory Road"
 		},
 		{
 			"id": 43,
 			"name": "Oddish",
 			"level": 65,
-			"location": "Route"
+			"location": "Viridian City"
 		},
 		{
 			"id": 44,
 			"name": "Gloom",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Pewter City"
 		},
 		{
 			"id": 45,
 			"name": "Vileplume",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 14"
 		},
 		{
 			"id": 46,
 			"name": "Paras",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Mt. Moon"
 		},
 		{
 			"id": 47,
 			"name": "Parasect",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 2"
 		},
 		{
 			"id": 48,
 			"name": "Venonat",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 24"
 		},
 		{
 			"id": 49,
 			"name": "Venomoth",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 15"
 		},
 		{
 			"id": 50,
 			"name": "Diglett",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Diglett’s Cave"
 		},
 		{
 			"id": 51,
 			"name": "Dugtrio",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Diglett’s Cave"
 		},
 		{
 			"id": 52,

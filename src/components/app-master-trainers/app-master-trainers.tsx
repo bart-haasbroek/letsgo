@@ -20,10 +20,44 @@ export class AppMasterTrainers {
 				</ion-toolbar>
 			</ion-header>,
 
-			<ion-content padding>
+			<ion-content>
+			<div class="table">
+				<div class="table__row table__row--head">
+				<div class="table__column">
+						Name
+					</div>
+					<div class="table__column">
+						Level
+					</div>
+					<div class="table__column">
+						Location
+					</div>
+					<div class="table__column">
+						done ?
+					</div>
+				</div>
 				{this.masterTrainers.map((trainer) =>
-					<div class="hello">{trainer.name}</div>
+					<div class="table__row">
+						<div class="table__column">
+							{trainer.name}
+						</div>
+						<div class="table__column">
+							{trainer.level}
+						</div>
+						<div class="table__column">
+							{trainer.location}
+						</div>
+						<div class="table__column">
+						<div class="form-element form-element--checkbox">
+								<input id={trainer.id} type="checkbox"/>
+								<label htmlFor={trainer.id} class="form-element__label">
+									<div class="form-element-inner"></div>
+								</label>
+							</div>
+						</div>
+					</div>
 				)}
+			</div>
 			</ion-content>
 		];
 	}

@@ -1,3 +1,11 @@
-.hello {
-	color: red;
+.form-element {
+	border-bottom: 1px solid;
+
+	label {
+		line-height: 21px;
+	}
+
+	&:last-child {
+		border-bottom: none;
+	}
 }

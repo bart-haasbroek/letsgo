@@ -3,7 +3,6 @@ import { Component, State } from '@stencil/core';
 import * as Data from '../../assets/data.json';
 
 
-
 @Component({
 	tag: 'app-events',
 	styleUrl: 'app-events.scss'
@@ -13,9 +12,20 @@ export class AppEvents {
 	public name = this.data.name;
 	@State() events: any = this.data.events;
 
+	public inputChanged(event: any, gameEvent): void {
+		const isChecked: boolean = event.target.checked;
+		const finishedEvents: any = {
+			...this.getEvents,
+			[gameEvent.id]: isChecked
+		};
+		localStorage.setItem('gameEvents', JSON.stringify(finishedEvents));
+	}
+
+	get getEvents(): any {
+		return localStorage.getItem('gameEvents') ? JSON.parse(localStorage.getItem('gameEvents')) : {};
+	}
 
 	render() {
-		console.log(this.events);
 		return [
 			<ion-header>
 				<ion-toolbar color="primary">
@@ -27,18 +37,15 @@ export class AppEvents {
 			</ion-header>,
 
 			<ion-content padding>
-				<ion-list>
-					{this.events.map((event) =>
-					<ion-item>
-						<div slot="start">
-							<input type="checkbox"/>
-						</div>
-						<ion-label>
-							{event}
-						</ion-label>
-					</ion-item>
-					)}
-				</ion-list>
+				{this.events.map((gameEvent: any) =>
+				<div class="form-element form-element--checkbox">
+					<input checked={this.getEvents[gameEvent.id]} id={gameEvent.id} type="checkbox" onChange={(event: UIEvent) => this.inputChanged(event, gameEvent)}/>
+					<label htmlFor={gameEvent.id} class="form-element__label">
+						{gameEvent.title}
+						<div class="form-element-inner"></div>
+					</label>
+				</div>
+				)}
 			</ion-content>
 		];
 	}
