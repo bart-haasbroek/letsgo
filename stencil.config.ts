@@ -15,6 +15,9 @@ export const config: Config = {
 	plugins: [
 		sass()
 	],
+	copy: [
+		{ src: '_redirects' }
+	],
 	globalScript: 'src/global/app.ts',
 	globalStyle: 'src/global/app.scss'
 };
