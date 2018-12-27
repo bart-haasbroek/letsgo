@@ -1,0 +1,959 @@
+{
+	"events": [
+		"Babysit a Slowpoke in Pewter City for a Big Pearl",
+		"Buy some Pewter Crunchies at Pewter PMC",
+		"Battle Mina at Vermilion Port",
+		"Visit Diglett in the Warden’s house in Fushcia City for a Nugget",
+		"Return and battle the Elite Four",
+		"Pick up hidden items in Mt. Moon, Pokemon Tower, and Rocket Game Corner",
+		"Find a fossil in Cerulean Cave",
+		"Hidden Heart Scales in Seafoam Islands",
+		"Battle Green in Cerulean City (after becoming Champion)"
+	],
+	"coach-trainers": [
+		{
+			"name": "Kareem",
+			"location": "route 3",
+			"reward": "Revive"
+		},
+		{
+			"name": "Oberon",
+			"location": "route 4",
+			"reward": "TM57 Pay Day"
+		},
+		{
+			"name": "Amala",
+			"location": "route 25",
+			"reward": "TM15 Seismic Toss"
+		},
+		{
+			"name": "Will",
+			"location": "route 11",
+			"reward": "5x Pikachu / Eevee Candy"
+		},
+		{
+			"name": "Tasha",
+			"location": "route 10",
+			"reward": "TM13 Brick Break"
+		},
+		{
+			"name": "Holly",
+			"location": "Pokemon Tower",
+			"reward": "5x Pikachu / Eevee Candy"
+		},
+		{
+			"name": "Alpesh",
+			"location": "route 7",
+			"reward": "TM12 Facade"
+		}
+	],
+	"masterTrainers": [
+		{
+			"id": 1,
+			"name": "Bulbasaur",
+			"level": 65,
+			"location": "Route 4"
+		},
+		{
+			"id": 2,
+			"name": "Ivysaur",
+			"level": 70,
+			"location": "Route 14"
+		},
+		{
+			"id": 3,
+			"name": "Venusaur",
+			"level": 75,
+			"location": "Route 23"
+		},
+		{
+			"id": 4,
+			"name": "Charmander",
+			"level": 65,
+			"location": "Celadon city"
+		},
+		{
+			"id": 5,
+			"name": "Charmeleon",
+			"level": 70,
+			"location": "Route 10"
+		},
+		{
+			"id": 6,
+			"name": "Charizard",
+			"level": 75,
+			"location": "Route 23"
+		},
+		{
+			"id": 7,
+			"name": "Squirtle",
+			"level": 65,
+			"location": "Route 12"
+		},
+		{
+			"id": 8,
+			"name": "Wartortle",
+			"level": 70,
+			"location": "Route 20"
+		},
+		{
+			"id": 9,
+			"name": "Blastoise",
+			"level": 75,
+			"location": "Route 20"
+		},
+		{
+			"id": 10,
+			"name": "Caterpie",
+			"level": 65,
+			"location": "Route 18"
+		},
+		{
+			"id": 11,
+			"name": "Metapod",
+			"level": 70,
+			"location": "Route 11"
+		},
+		{
+			"id": 12,
+			"name": "Butterfree",
+			"level": 75,
+			"location": "Route 2"
+		},
+		{
+			"id": 13,
+			"name": "Weedle",
+			"level": 65,
+			"location": "Viridian Forest"
+		},
+		{
+			"id": 14,
+			"name": "Kakuna",
+			"level": 70,
+			"location": "Route 13"
+		},
+		{
+			"id": 15,
+			"name": "Beedrill",
+			"level": 75,
+			"location": "Route 8"
+		},
+		{
+			"id": 16,
+			"name": "Pidgey",
+			"level": 65,
+			"location": "Route 2"
+		},
+		{
+			"id": 17,
+			"name": "Pidgeotto",
+			"level": 70,
+			"location": "Route 16"
+		},
+		{
+			"id": 18,
+			"name": "Pidgeot",
+			"level": 75,
+			"location": "Route 12"
+		},
+		{
+			"id": 19,
+			"name": "Rattata",
+			"level": 65,
+			"location": "Route 10"
+		},
+		{
+			"id": 20,
+			"name": "Raticate",
+			"level": 75,
+			"location": "Cerulean City"
+		},
+		{
+			"id": 21,
+			"name": "Spearow",
+			"level": 70,
+			"location": "Pewter City"
+		},
+		{
+			"id": 22,
+			"name": "Fearow",
+			"level": 80,
+			"location": "Route 18"
+		},
+		{
+			"id": 23,
+			"name": "Ekans",
+			"level": 70,
+			"location": "Route 4"
+		},
+		{
+			"id": 24,
+			"name": "Arbok",
+			"level": 75,
+			"location": "Rocket Hideout"
+		},
+		{
+			"id": 25,
+			"name": "Pikachu",
+			"level": 75,
+			"location": "Viridian Forest"
+		},
+		{
+			"id": 26,
+			"name": "Raichu",
+			"level": 75,
+			"location": "Pokémon Tower"
+		},
+		{
+			"id": 27,
+			"name": "Sandshrew",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 28,
+			"name": "Sandslash",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 29,
+			"name": "Nidoran",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 30,
+			"name": "Nidorina",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 31,
+			"name": "Nidoqueen",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 32,
+			"name": "Nidoran",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 33,
+			"name": "Nidorino",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 34,
+			"name": "Nidoking",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 35,
+			"name": "Clefairy",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 36,
+			"name": "Clefable",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 37,
+			"name": "Vulpix",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 38,
+			"name": "Ninetales",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 39,
+			"name": "Jigglypuff",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 40,
+			"name": "Wigglytuff",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 41,
+			"name": "Zubat",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 42,
+			"name": "Golbat",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 43,
+			"name": "Oddish",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 44,
+			"name": "Gloom",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 45,
+			"name": "Vileplume",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 46,
+			"name": "Paras",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 47,
+			"name": "Parasect",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 48,
+			"name": "Venonat",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 49,
+			"name": "Venomoth",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 50,
+			"name": "Diglett",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 51,
+			"name": "Dugtrio",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 52,
+			"name": "Meowth",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 53,
+			"name": "Persian",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 54,
+			"name": "Psyduck",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 55,
+			"name": "Golduck",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 56,
+			"name": "Mankey",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 57,
+			"name": "Primeape",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 58,
+			"name": "Growlithe",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 59,
+			"name": "Arcanine",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 60,
+			"name": "Poliwag",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 61,
+			"name": "Poliwhirl",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 62,
+			"name": "Poliwrath",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 63,
+			"name": "Abra",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 64,
+			"name": "Kadabra",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 65,
+			"name": "Alakazam",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 66,
+			"name": "Machop",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 67,
+			"name": "Machoke",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 68,
+			"name": "Machamp",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 69,
+			"name": "Bellsprout",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 70,
+			"name": "Weepinbell",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 71,
+			"name": "Victreebel",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 72,
+			"name": "Tentacool",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 73,
+			"name": "Tentacruel",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 74,
+			"name": "Geodude",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 75,
+			"name": "Graveler",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 76,
+			"name": "Golem",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 77,
+			"name": "Ponyta",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 78,
+			"name": "Rapidash",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 79,
+			"name": "Slowpoke",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 80,
+			"name": "Slowbro",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 81,
+			"name": "Magnemite",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 82,
+			"name": "Magneton",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 83,
+			"name": "Farfetch'd",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 84,
+			"name": "Doduo",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 85,
+			"name": "Dodrio",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 86,
+			"name": "Seel",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 87,
+			"name": "Dewgong",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 88,
+			"name": "Grimer",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 89,
+			"name": "Muk",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 90,
+			"name": "Shellder",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 91,
+			"name": "Cloyster",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 92,
+			"name": "Gastly",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 93,
+			"name": "Haunter",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 94,
+			"name": "Gengar",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 95,
+			"name": "Onix",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 96,
+			"name": "Drowzee",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 97,
+			"name": "Hypno",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 98,
+			"name": "Krabby",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 99,
+			"name": "Kingler",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 100,
+			"name": "Voltorb",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 101,
+			"name": "Electrode",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 102,
+			"name": "Exeggcute",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 103,
+			"name": "Exeggutor",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 104,
+			"name": "Cubone",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 105,
+			"name": "Marowak",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 106,
+			"name": "Hitmonlee",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 107,
+			"name": "Hitmonchan",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 108,
+			"name": "Lickitung",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 109,
+			"name": "Koffing",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 110,
+			"name": "Weezing",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 111,
+			"name": "Rhyhorn",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 112,
+			"name": "Rhydon",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 113,
+			"name": "Chansey",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 114,
+			"name": "Tangela",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 115,
+			"name": "Kangaskhan",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 116,
+			"name": "Horsea",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 117,
+			"name": "Seadra",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 118,
+			"name": "Goldeen",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 119,
+			"name": "Seaking",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 120,
+			"name": "Staryu",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 121,
+			"name": "Starmie",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 122,
+			"name": "Mr. Mime",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 123,
+			"name": "Scyther",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 124,
+			"name": "Jynx",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 125,
+			"name": "Electabuzz",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 126,
+			"name": "Magmar",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 127,
+			"name": "Pinsir",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 128,
+			"name": "Tauros",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 129,
+			"name": "Magikarp",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 130,
+			"name": "Gyarados",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 131,
+			"name": "Lapras",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 132,
+			"name": "Ditto",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 133,
+			"name": "Eevee",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 134,
+			"name": "Vaporeon",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 135,
+			"name": "Jolteon",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 136,
+			"name": "Flareon",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 137,
+			"name": "Porygon",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 138,
+			"name": "Omanyte",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 139,
+			"name": "Omastar",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 140,
+			"name": "Kabuto",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 141,
+			"name": "Kabutops",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 142,
+			"name": "Aerodactyl",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 143,
+			"name": "Snorlax",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 144,
+			"name": "Articuno",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 145,
+			"name": "Zapdos",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 146,
+			"name": "Moltres",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 147,
+			"name": "Dratini",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 148,
+			"name": "Dragonair",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 149,
+			"name": "Dragonite",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 150,
+			"name": "Mewtwo",
+			"level": 65,
+			"location": "Route"
+		},
+		{
+			"id": 151,
+			"name": "Mew",
+			"level": 65,
+			"location": "Route"
+		}
+	],
+	"name": "test123"
+}

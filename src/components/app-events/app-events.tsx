@@ -1,5 +1,6 @@
 import { Component, State } from '@stencil/core';
-import { apiService } from '../../global/providers/api-service';
+///import { apiService } from '../../global/providers/api-service';
+import * as Data from '../../assets/data.json';
 
 
 
@@ -8,15 +9,13 @@ import { apiService } from '../../global/providers/api-service';
 	styleUrl: 'app-events.scss'
 })
 export class AppEvents {
-	@State() name: any;
+	public data: any = Data;
+	public name = this.data.name;
+	@State() events: any = this.data.events;
 
-	async componentDidLoad() {
-		const data: any = await apiService.getCalendarData();
-		console.log('data', data);
-		this.name = data.name;
-	}
 
 	render() {
+		console.log(this.events);
 		return [
 			<ion-header>
 				<ion-toolbar color="primary">
@@ -29,15 +28,16 @@ export class AppEvents {
 
 			<ion-content padding>
 				<ion-list>
+					{this.events.map((event) =>
 					<ion-item>
 						<div slot="start">
 							<input type="checkbox"/>
 						</div>
 						<ion-label>
-							<h2>{this.name}</h2>
-							<h3>I'm a big deal</h3>
+							{event}
 						</ion-label>
 					</ion-item>
+					)}
 				</ion-list>
 			</ion-content>
 		];
