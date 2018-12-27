@@ -13,8 +13,17 @@ import 'ionicons';
 
 export namespace Components {
 
+  interface AppCoachTrainers {}
+  interface AppCoachTrainersAttributes extends StencilHTMLAttributes {}
+
+  interface AppEvents {}
+  interface AppEventsAttributes extends StencilHTMLAttributes {}
+
   interface AppHome {}
   interface AppHomeAttributes extends StencilHTMLAttributes {}
+
+  interface AppMasterTrainers {}
+  interface AppMasterTrainersAttributes extends StencilHTMLAttributes {}
 
   interface AppProfile {
     'name': string;
@@ -25,26 +34,55 @@ export namespace Components {
 
   interface AppRoot {}
   interface AppRootAttributes extends StencilHTMLAttributes {}
+
+  interface AppTmCollection {}
+  interface AppTmCollectionAttributes extends StencilHTMLAttributes {}
 }
 
 declare global {
   interface StencilElementInterfaces {
+    'AppCoachTrainers': Components.AppCoachTrainers;
+    'AppEvents': Components.AppEvents;
     'AppHome': Components.AppHome;
+    'AppMasterTrainers': Components.AppMasterTrainers;
     'AppProfile': Components.AppProfile;
     'AppRoot': Components.AppRoot;
+    'AppTmCollection': Components.AppTmCollection;
   }
 
   interface StencilIntrinsicElements {
+    'app-coach-trainers': Components.AppCoachTrainersAttributes;
+    'app-events': Components.AppEventsAttributes;
     'app-home': Components.AppHomeAttributes;
+    'app-master-trainers': Components.AppMasterTrainersAttributes;
     'app-profile': Components.AppProfileAttributes;
     'app-root': Components.AppRootAttributes;
+    'app-tm-collection': Components.AppTmCollectionAttributes;
   }
 
+
+  interface HTMLAppCoachTrainersElement extends Components.AppCoachTrainers, HTMLStencilElement {}
+  var HTMLAppCoachTrainersElement: {
+    prototype: HTMLAppCoachTrainersElement;
+    new (): HTMLAppCoachTrainersElement;
+  };
+
+  interface HTMLAppEventsElement extends Components.AppEvents, HTMLStencilElement {}
+  var HTMLAppEventsElement: {
+    prototype: HTMLAppEventsElement;
+    new (): HTMLAppEventsElement;
+  };
 
   interface HTMLAppHomeElement extends Components.AppHome, HTMLStencilElement {}
   var HTMLAppHomeElement: {
     prototype: HTMLAppHomeElement;
     new (): HTMLAppHomeElement;
+  };
+
+  interface HTMLAppMasterTrainersElement extends Components.AppMasterTrainers, HTMLStencilElement {}
+  var HTMLAppMasterTrainersElement: {
+    prototype: HTMLAppMasterTrainersElement;
+    new (): HTMLAppMasterTrainersElement;
   };
 
   interface HTMLAppProfileElement extends Components.AppProfile, HTMLStencilElement {}
@@ -59,16 +97,30 @@ declare global {
     new (): HTMLAppRootElement;
   };
 
+  interface HTMLAppTmCollectionElement extends Components.AppTmCollection, HTMLStencilElement {}
+  var HTMLAppTmCollectionElement: {
+    prototype: HTMLAppTmCollectionElement;
+    new (): HTMLAppTmCollectionElement;
+  };
+
   interface HTMLElementTagNameMap {
+    'app-coach-trainers': HTMLAppCoachTrainersElement
+    'app-events': HTMLAppEventsElement
     'app-home': HTMLAppHomeElement
+    'app-master-trainers': HTMLAppMasterTrainersElement
     'app-profile': HTMLAppProfileElement
     'app-root': HTMLAppRootElement
+    'app-tm-collection': HTMLAppTmCollectionElement
   }
 
   interface ElementTagNameMap {
+    'app-coach-trainers': HTMLAppCoachTrainersElement;
+    'app-events': HTMLAppEventsElement;
     'app-home': HTMLAppHomeElement;
+    'app-master-trainers': HTMLAppMasterTrainersElement;
     'app-profile': HTMLAppProfileElement;
     'app-root': HTMLAppRootElement;
+    'app-tm-collection': HTMLAppTmCollectionElement;
   }
 
 
