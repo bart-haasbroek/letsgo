@@ -991,5 +991,367 @@
 			"location": "Route"
 		}
 	],
+	"TMs": [
+		{
+			"id": 1,
+			"tm": "TM01",
+			"name": "Headbutt",
+			"location": "Defeat Brock in the Pewter City Gym"
+		},
+		{
+			"id": 2,
+			"tm": "TM02",
+			"name": "Taunt",
+			"location": "Speak to scientist in Cinnabar Lab"
+		},
+		{
+			"id": 3,
+			"tm": "TM03",
+			"name": "Helping Hand",
+			"location": "Speak to store clerk on Floor 3 of Celadon Department Store"
+		},
+		{
+			"id": 4,
+			"tm": "TM04",
+			"name": "Teleport",
+			"location": "Pokemon Tower (Lavender Town)"
+		},
+		{
+			"id": 5,
+			"tm": "TM05",
+			"name": "Rest",
+			"location": "Celadon City Game Corner – B2"
+		},
+		{
+			"id": 6,
+			"tm": "TM06",
+			"name": "Light Screen",
+			"location": "Give the little girl on the roof of Celadon Department Store a Fresh Water from vending machine"
+		},
+		{
+			"id": 7,
+			"tm": "TM07",
+			"name": "Protect",
+			"location": "Give the little girl on the roof of Celadon Department Store a Lemonade from the vending machine"
+		},
+		{
+			"id": 8,
+			"tm": "TM08",
+			"name": "Substitute",
+			"location": "Talk to the little girl in North Saffron City with Clefairy in your Party"
+		},
+		{
+			"id": 9,
+			"tm": "TM09",
+			"name": "Reflect",
+			"location": "Give the little girl on the roof of Celadon Department Store a Soda Pop from vending machine"
+		},
+		{
+			"id": 10,
+			"tm": "TM10",
+			"name": "Dig",
+			"location": "Defeat the Team Rocket Grunt after defeating Misty"
+		},
+		{
+			"id": 11,
+			"tm": "TM11",
+			"name": "Will-O-Wisp",
+			"location": "Talk to man in pink shirt in Viridian City (behind cut bush)"
+		},
+		{
+			"id": 12,
+			"tm": "TM12",
+			"name": "Facade",
+			"location": "Defeat the Coach Trainer on Route 7"
+		},
+		{
+			"id": 13,
+			"tm": "TM13",
+			"name": "Brick Break",
+			"location": "Defeat Coach Trainer outside of Rock Tunnel on Route 10"
+		},
+		{
+			"id": 14,
+			"tm": "TM14",
+			"name": "Fly",
+			"location": "Speak to woman in house on Route 16 (behind cut bush)"
+		},
+		{
+			"id": 15,
+			"tm": "TM15",
+			"name": "Seismic Toss",
+			"location": "Defeat Coach Trainer on Route 24 – East of Bill’s house"
+		},
+		{
+			"id": 16,
+			"tm": "TM16",
+			"name": "Thunder Wave",
+			"location": "Route 24 behind cut bush"
+		},
+		{
+			"id": 17,
+			"tm": "TM17",
+			"name": "Dragon Tail",
+			"location": "Celadon Department Store – 2F (20,000 Poke Dollars)"
+		},
+		{
+			"id": 18,
+			"tm": "TM18",
+			"name": "U-Turn",
+			"location": "Celadon Department Store (20,000 Poke Dollars)"
+		},
+		{
+			"id": 19,
+			"tm": "TM19",
+			"name": "Iron Tail",
+			"location": "Celadon Department Store – 2F (50,000 Poke Dollars)"
+		},
+		{
+			"id": 20,
+			"tm": "TM20",
+			"name": "Dark Pulse",
+			"location": "Celadon City Game Corner – B3"
+		},
+		{
+			"id": 21,
+			"tm": "TM21",
+			"name": "Foul Play",
+			"location": "Pokemon Mansion – 3F (Cinnabar Island)"
+		},
+		{
+			"id": 22,
+			"tm": "TM22",
+			"name": "Rock Slide",
+			"location": "Defeat Coach Trainer in Pokemon Mansion – 2F (Cinnabar Island)"
+		},
+		{
+			"id": 23,
+			"tm": "TM23",
+			"name": "Thunderpunch",
+			"location": "Defeat Coach Trainer in Fighting Dojo (Saffron City)"
+		},
+		{
+			"id": 24,
+			"tm": "TM24",
+			"name": "X-Scissor",
+			"location": "Route 12 (need Surf)"
+		},
+		{
+			"id": 25,
+			"tm": "TM25",
+			"name": "Waterfall",
+			"location": "Celadon Department Store (30,000 Poke Dollars)"
+		},
+		{
+			"id": 26,
+			"tm": "TM26",
+			"name": "Poison Jab",
+			"location": "Talk to the old man with the pond in front of his house in Celadon City (need Surf)"
+		},
+		{
+			"id": 27,
+			"tm": "TM27",
+			"name": "Toxic",
+			"location": "Defeat Koga in the Fuchsia City Gym"
+		},
+		{
+			"id": 28,
+			"tm": "TM28",
+			"name": "Tri Attack",
+			"location": "Celadon Department Store – 2F (30,000 Poke Dollars)"
+		},
+		{
+			"id": 29,
+			"tm": "TM29",
+			"name": "Scald",
+			"location": "Defeat Misty in the Cerulean City Gym"
+		},
+		{
+			"id": 30,
+			"tm": "TM30",
+			"name": "Bulk Up",
+			"location": "Celadon Department Store (10,000 Poke Dollars)"
+		},
+		{
+			"id": 31,
+			"tm": "TM31",
+			"name": "Fire Punch",
+			"location": "Defeat Coach Trainer on Route 15"
+		},
+		{
+			"id": 32,
+			"tm": "TM32",
+			"name": "Dazzling Gleam",
+			"location": "Talk to forgetful old man in house on Route 12"
+		},
+		{
+			"id": 33,
+			"tm": "TM33",
+			"name": "Calm Mind",
+			"location": "Defeat Sabrina in the Saffron City Gym"
+		},
+		{
+			"id": 34,
+			"tm": "TM34",
+			"name": "Dragon Pulse",
+			"location": "Silph Co. 7F (Saffron City – need Card Key)"
+		},
+		{
+			"id": 35,
+			"tm": "TM35",
+			"name": "Ice Punch",
+			"location": "Defeat Coach Trainer on Route 21"
+		},
+		{
+			"id": 36,
+			"tm": "TM36",
+			"name": "Thunderbolt",
+			"location": "Defeat Lt. Surge in the Vermillion City Gym"
+		},
+		{
+			"id": 37,
+			"tm": "TM37",
+			"name": "Flamethrower",
+			"location": "Silph Co. 10F (Saffron City)"
+		},
+		{
+			"id": 38,
+			"tm": "TM38",
+			"name": "Thunder",
+			"location": "Power Plant"
+		},
+		{
+			"id": 39,
+			"tm": "TM39",
+			"name": "Outrage",
+			"location": "Defeat Coach Trainer in Victory Road – 3F"
+		},
+		{
+			"id": 40,
+			"tm": "TM40",
+			"name": "Psychic",
+			"location": "Talk to man in the house South of Silph Co. in Saffron City"
+		},
+		{
+			"id": 41,
+			"tm": "TM41",
+			"name": "Earthquake",
+			"location": "Defeat Giovanni in the Viridian City Gym"
+		},
+		{
+			"id": 42,
+			"tm": "TM42",
+			"name": "Self-Destruct",
+			"location": "Talk to female Silph Co. employee on 2F in Saffron City"
+		},
+		{
+			"id": 43,
+			"tm": "TM43",
+			"name": "Shadow Ball",
+			"location": "Celadon City Department Store (30,000 Poke Dollars)"
+		},
+		{
+			"id": 44,
+			"tm": "TM44",
+			"name": "Play Rough",
+			"location": "On the roof of Celadon Condominiums (enter through the back)"
+		},
+		{
+			"id": 45,
+			"tm": "TM45",
+			"name": "Solar Beam",
+			"location": "Victory Road – 2F"
+		},
+		{
+			"id": 46,
+			"tm": "TM46",
+			"name": "Fire Blast",
+			"location": "Defeat Blaine in the Cinnabar Island Gym"
+		},
+		{
+			"id": 47,
+			"tm": "TM47",
+			"name": "Surf",
+			"location": "Route 15"
+		},
+		{
+			"id": 48,
+			"tm": "TM48",
+			"name": "Hyper Beam",
+			"location": "Celadon Department Store – 2F (100,000 Poke Dollars)"
+		},
+		{
+			"id": 49,
+			"tm": "TM49",
+			"name": "Superpower",
+			"location": "Victory Road – 2F"
+		},
+		{
+			"id": 50,
+			"tm": "TM50",
+			"name": "Roost",
+			"location": "Talk to little girl on Route 12 security house (top floor)"
+		},
+		{
+			"id": 51,
+			"tm": "TM51",
+			"name": "Blizzard",
+			"location": "Victory Road – 3F"
+		},
+		{
+			"id": 52,
+			"tm": "TM52",
+			"name": "Sludge Bomb",
+			"location": "Pokemon Mansion (Cinnabar Island)"
+		},
+		{
+			"id": 53,
+			"tm": "TM53",
+			"name": "Mega Drain",
+			"location": "Defeat Erika in the Celadon City Gym"
+		},
+		{
+			"id": 54,
+			"tm": "TM54",
+			"name": "Flash Cannon",
+			"location": "Silph Co. 5F (Saffron City – needs Card Key)"
+		},
+		{
+			"id": 55,
+			"tm": "TM55",
+			"name": "Ice Beam",
+			"location": "Seafoam Islands – B3"
+		},
+		{
+			"id": 56,
+			"tm": "TM56",
+			"name": "Stealth Rock",
+			"location": "Victory Road – 1F (behind Strength Rock)"
+		},
+		{
+			"id": 57,
+			"tm": "TM57",
+			"name": "Pay Day",
+			"location": "Defeat the Coach Trainer on Route 3 (outside of Mt. Moon)"
+		},
+		{
+			"id": 58,
+			"tm": "TM58",
+			"name": "Drill Run",
+			"location": "Coach Trainer on Route 17"
+		},
+		{
+			"id": 59,
+			"tm": "TM59",
+			"name": "Dream Eater",
+			"location": "Defeat Coach Trainer on Route 12"
+		},
+		{
+			"id": 60,
+			"tm": "TM60",
+			"name": "Megahorn",
+			"location": "Defeat Coach Trainer in front of Cerulean Cave after defeating Pokemon League"
+		}
+	],
 	"name": "test123"
 }

@@ -2,46 +2,46 @@
 	padding: 10px;
 }
 
-.table__row {
-	display: flex;
-	padding: 7px 8px 9px;
+// .table__row {
+// 	display: flex;
+// 	padding: 7px 8px 9px;
 
-	&:nth-child(odd) {
-		background: #efefef;
-	}
+// 	&:nth-child(odd) {
+// 		background: #efefef;
+// 	}
 
-	&:last-child {
-		margin-bottom: 0;
-	}
+// 	&:last-child {
+// 		margin-bottom: 0;
+// 	}
 
-	&--head {
-		background: #ccc;
-		font-weight: bold;
-		font-size: 16px;
-	}
-}
+// 	&--head {
+// 		background: #ccc;
+// 		font-weight: bold;
+// 		font-size: 16px;
+// 	}
+// }
 
-.table__column {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-grow: 1;
-	font-size: 15px;
+// .table__column {
+// 	display: flex;
+// 	justify-content: center;
+// 	align-items: center;
+// 	flex-grow: 1;
+// 	font-size: 15px;
 
 
-	&:first-child {
-		flex-basis: 38%;
-		justify-content: flex-start;
-	}
+// 	&:first-child {
+// 		flex-basis: 38%;
+// 		justify-content: flex-start;
+// 	}
 
-	&.location {
-		flex-basis: 120px;
-	}
+// 	&.location {
+// 		flex-basis: 120px;
+// 	}
 
-	&.done {
-		flex: 0 0 15px;
-	}
-}
+// 	&.done {
+// 		flex: 0 0 15px;
+// 	}
+// }
 
 .form-element--checkbox.trainer-done {
 		label:before,

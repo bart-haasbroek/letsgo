@@ -8,7 +8,10 @@ export const config: Config = {
 		{
 			type: 'www',
 			serviceWorker: {
-				swSrc: 'src/sw.js'
+				swSrc: 'src/sw.js',
+				globPatterns: [
+					'**/*.{js,css,json,html,ico,png}'
+				]
 			}
 		}
 	],
