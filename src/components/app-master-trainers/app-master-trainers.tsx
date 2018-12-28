@@ -35,7 +35,7 @@ export class AppMasterTrainers {
 			</ion-header>,
 
 			<ion-content>
-			<div class="table">
+			<div class="table master-trainers">
 				<div class="table__row table__row--head">
 				<div class="table__column">
 						Name
@@ -44,10 +44,10 @@ export class AppMasterTrainers {
 						Level
 					</div>
 					<div class="table__column location">
-						Location
+						location
 					</div>
-					<div class="table__column done">
-						Done
+					<div class="table__column">
+						Reward
 					</div>
 				</div>
 				{this.masterTrainers.map((trainer) =>

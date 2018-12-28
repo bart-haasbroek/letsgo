@@ -18,6 +18,7 @@ export class AppHome {
 		<ion-button href="/events" expand="block">Events</ion-button>
 		<ion-button href="/master-trainers" expand="block">Master trainers</ion-button>
 		<ion-button href="/coach-trainers" expand="block">Coach trainers</ion-button>
+		<ion-button href="/in-app-trades" expand="block">In game trades</ion-button>
 		<ion-button href="/tm-collection" expand="block">TM collection</ion-button>
       </ion-content>
     ];

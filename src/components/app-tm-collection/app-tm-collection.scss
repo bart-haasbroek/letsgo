@@ -1,3 +1,14 @@
-.tm-location {
-	flex-basis: 45%;
+.tm-collection {
+	.table__column {
+		justify-content: flex-start;
+		font-size: 14px;
+
+		&:last-child {
+			flex: 0 0 55%;
+		}
+
+		&:first-child {
+			flex: 0 0 60px;
+		}
+	}
 }

@@ -22,6 +22,9 @@ export namespace Components {
   interface AppHome {}
   interface AppHomeAttributes extends StencilHTMLAttributes {}
 
+  interface AppInGameTrades {}
+  interface AppInGameTradesAttributes extends StencilHTMLAttributes {}
+
   interface AppMasterTrainers {}
   interface AppMasterTrainersAttributes extends StencilHTMLAttributes {}
 
@@ -44,6 +47,7 @@ declare global {
     'AppCoachTrainers': Components.AppCoachTrainers;
     'AppEvents': Components.AppEvents;
     'AppHome': Components.AppHome;
+    'AppInGameTrades': Components.AppInGameTrades;
     'AppMasterTrainers': Components.AppMasterTrainers;
     'AppProfile': Components.AppProfile;
     'AppRoot': Components.AppRoot;
@@ -54,6 +58,7 @@ declare global {
     'app-coach-trainers': Components.AppCoachTrainersAttributes;
     'app-events': Components.AppEventsAttributes;
     'app-home': Components.AppHomeAttributes;
+    'app-in-game-trades': Components.AppInGameTradesAttributes;
     'app-master-trainers': Components.AppMasterTrainersAttributes;
     'app-profile': Components.AppProfileAttributes;
     'app-root': Components.AppRootAttributes;
@@ -77,6 +82,12 @@ declare global {
   var HTMLAppHomeElement: {
     prototype: HTMLAppHomeElement;
     new (): HTMLAppHomeElement;
+  };
+
+  interface HTMLAppInGameTradesElement extends Components.AppInGameTrades, HTMLStencilElement {}
+  var HTMLAppInGameTradesElement: {
+    prototype: HTMLAppInGameTradesElement;
+    new (): HTMLAppInGameTradesElement;
   };
 
   interface HTMLAppMasterTrainersElement extends Components.AppMasterTrainers, HTMLStencilElement {}
@@ -107,6 +118,7 @@ declare global {
     'app-coach-trainers': HTMLAppCoachTrainersElement
     'app-events': HTMLAppEventsElement
     'app-home': HTMLAppHomeElement
+    'app-in-game-trades': HTMLAppInGameTradesElement
     'app-master-trainers': HTMLAppMasterTrainersElement
     'app-profile': HTMLAppProfileElement
     'app-root': HTMLAppRootElement
@@ -117,6 +129,7 @@ declare global {
     'app-coach-trainers': HTMLAppCoachTrainersElement;
     'app-events': HTMLAppEventsElement;
     'app-home': HTMLAppHomeElement;
+    'app-in-game-trades': HTMLAppInGameTradesElement;
     'app-master-trainers': HTMLAppMasterTrainersElement;
     'app-profile': HTMLAppProfileElement;
     'app-root': HTMLAppRootElement;

@@ -9,7 +9,6 @@ import * as Data from '../../assets/data.json';
 })
 export class AppEvents {
 	public data: any = Data;
-	public name = this.data.name;
 	@State() events: any = this.data.events;
 
 	public inputChanged(event: any, gameEvent): void {

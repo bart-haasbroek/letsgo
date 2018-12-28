@@ -1,48 +1,44 @@
 import { Component, State } from '@stencil/core';
 import * as Data from '../../assets/data.json';
 
+
 @Component({
-	tag: 'app-tm-collection',
-	styleUrl: 'app-tm-collection.scss'
+	tag: 'app-in-game-trades',
+	styleUrl: 'app-in-game-trades.scss'
 })
-export class AppTmCollection {
+export class AppInAppTrades {
 	public data: any = Data;
-	@State() tms: any = this.data.TMs;
+	@State() trades: any = this.data.inAppTrades;
 
 	render() {
+		console.log(this.data);
 		return [
 			<ion-header>
 				<ion-toolbar color="primary">
 					<ion-buttons slot="start">
 						<ion-back-button defaultHref="/" />
 					</ion-buttons>
-					<ion-title>Events</ion-title>
+					<ion-title>In app trades</ion-title>
 				</ion-toolbar>
 			</ion-header>,
 
 			<ion-content>
-				<div class="table tm-collection">
-					<div class="table__row table__row--head">
-						<div class="table__column">
-							TM
-						</div>
-						<div class="table__column">
-							Name
-						</div>
-						<div class="table__column tm-location">
-							Where to get
-						</div>
-					</div>
-					{this.tms.map((tm) =>
+				<div class="table">
 					<div class="table__row">
 						<div class="table__column">
-							{tm.tm}
+							Trade
 						</div>
 						<div class="table__column">
-							{tm.name}
+							location
 						</div>
-						<div class="table__column tm-location">
-							{tm.location}
+					</div>
+					{this.trades.map((trade: any) =>
+					<div class="table__row">
+						<div class="table__column">
+							{trade.trade}
+						</div>
+						<div class="table__column">
+							{trade.location}
 						</div>
 					</div>
 				)}

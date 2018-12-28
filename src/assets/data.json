@@ -46,7 +46,7 @@
 			"extraInfo": ""
 		}
 	],
-	"coach-trainers": [
+	"coachTrainers": [
 		{
 			"name": "Kareem",
 			"location": "route 3",
@@ -79,6 +79,61 @@
 		},
 		{
 			"name": "Alpesh",
+			"location": "route 7",
+			"reward": "TM12 Facade"
+		},
+		{
+			"name": "Priya",
+			"location": "route 4",
+			"reward": "TM57 Pay Day"
+		},
+		{
+			"name": "Grantley",
+			"location": "route 25",
+			"reward": "TM15 Seismic Toss"
+		},
+		{
+			"name": "Yas",
+			"location": "route 11",
+			"reward": "5x Pikachu / Eevee Candy"
+		},
+		{
+			"name": "Leona",
+			"location": "route 10",
+			"reward": "TM13 Brick Break"
+		},
+		{
+			"name": "Pam",
+			"location": "Pokemon Tower",
+			"reward": "5x Pikachu / Eevee Candy"
+		},
+		{
+			"name": "Rita",
+			"location": "route 7",
+			"reward": "TM12 Facade"
+		},
+		{
+			"name": "Alemana",
+			"location": "route 11",
+			"reward": "5x Pikachu / Eevee Candy"
+		},
+		{
+			"name": "Ryan",
+			"location": "route 10",
+			"reward": "TM13 Brick Break"
+		},
+		{
+			"name": "Harjit",
+			"location": "Pokemon Tower",
+			"reward": "5x Pikachu / Eevee Candy"
+		},
+		{
+			"name": "Mable",
+			"location": "route 7",
+			"reward": "TM12 Facade"
+		},
+		{
+			"name": "Morimoto",
 			"location": "route 7",
 			"reward": "TM12 Facade"
 		}
@@ -991,6 +1046,58 @@
 			"location": "Route"
 		}
 	],
+	"inAppTrades": [
+		{
+			"id": 1,
+			"trade": "Rattata for Alola Rattata",
+			"location": "Pokecenter Cerulean city"
+		},
+		{
+			"id": 2,
+			"trade": "Geodude for Alola Geodude",
+			"location": "Pokecenter Vermilion city"
+		},
+		{
+			"id": 3,
+			"trade": "Diglett for Alola Diglett",
+			"location": "Pokecenter Lavender town"
+		},
+		{
+			"id": 4,
+			"trade": "Sandshrew for Alola Sandshrew (pikachu version)",
+			"location": "Pokecenter Celadon city"
+		},
+		{
+			"id": 5,
+			"trade": "Vulpix for Alola Vulpix (eevee version)",
+			"location": "Pokecenter Celadon city"
+		},
+		{
+			"id": 6,
+			"trade": "Exeggutor for Alola Exeggutor",
+			"location": "Pokecenter Indigo Plateau"
+		},
+		{
+			"id": 7,
+			"trade": "Marowak for Alola Marowak",
+			"location": "Pokecenter Fushia city"
+		},
+		{
+			"id": 8,
+			"trade": "Grimer for Alola Grimer (pikachu version)",
+			"location": "Pokecenter Cinnabar island"
+		},
+		{
+			"id": 9,
+			"trade": "Meowth for Alola Meowth (eevee version)",
+			"location": "Pokecenter Cinnabar island"
+		},
+		{
+			"id": 10,
+			"trade": "Raichu for Alola Raichu",
+			"location": "Pokecenter Saffron city"
+		}
+	],
 	"TMs": [
 		{
 			"id": 1,
@@ -1352,6 +1459,5 @@
 			"name": "Megahorn",
 			"location": "Defeat Coach Trainer in front of Cerulean Cave after defeating Pokemon League"
 		}
-	],
-	"name": "test123"
+	]
 }

@@ -24,12 +24,6 @@
 	flex-grow: 1;
 	font-size: 15px;
 
-
-	&:first-child {
-		flex-basis: 38%;
-		justify-content: flex-start;
-	}
-
 	&.location {
 		flex-basis: 120px;
 	}

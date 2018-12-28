@@ -2,6 +2,11 @@
 	padding: 10px;
 }
 
+.master-trainers .table__column:first-child {
+	flex-basis: 38%;
+	justify-content: flex-start;
+}
+
 // .table__row {
 // 	display: flex;
 // 	padding: 7px 8px 9px;
