@@ -29,11 +29,11 @@ export class AppMasterTrainers {
 					<div class="table__column">
 						Level
 					</div>
-					<div class="table__column">
+					<div class="table__column location">
 						Location
 					</div>
-					<div class="table__column">
-						done ?
+					<div class="table__column done">
+						Done
 					</div>
 				</div>
 				{this.masterTrainers.map((trainer) =>
@@ -44,11 +44,11 @@ export class AppMasterTrainers {
 						<div class="table__column">
 							{trainer.level}
 						</div>
-						<div class="table__column">
+						<div class="table__column location">
 							{trainer.location}
 						</div>
-						<div class="table__column">
-						<div class="form-element form-element--checkbox">
+						<div class="table__column done">
+							<div class="form-element form-element--checkbox trainer-done">
 								<input id={trainer.id} type="checkbox"/>
 								<label htmlFor={trainer.id} class="form-element__label">
 									<div class="form-element-inner"></div>

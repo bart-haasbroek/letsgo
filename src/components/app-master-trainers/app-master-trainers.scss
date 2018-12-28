@@ -4,7 +4,7 @@
 
 .table__row {
 	display: flex;
-	margin-bottom: 8px;
+	padding: 7px 8px 9px;
 
 	&:nth-child(odd) {
 		background: #efefef;
@@ -16,7 +16,8 @@
 
 	&--head {
 		background: #ccc;
-		padding: 5px;
+		font-weight: bold;
+		font-size: 16px;
 	}
 }
 
@@ -24,11 +25,28 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 5px 10px;
+	flex-grow: 1;
+	font-size: 15px;
 
 
 	&:first-child {
-		flex-basis: 40%;
+		flex-basis: 38%;
 		justify-content: flex-start;
 	}
+
+	&.location {
+		flex-basis: 120px;
+	}
+
+	&.done {
+		flex: 0 0 15px;
+	}
+}
+
+.form-element--checkbox.trainer-done {
+		label:before,
+		.form-element-inner {
+			top: 4px;
+			left: 7px;
+		}
 }
