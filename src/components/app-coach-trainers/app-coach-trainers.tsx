@@ -18,7 +18,6 @@ export class AppCoachTrainers {
       </ion-header>,
 
       <ion-content padding>
-	  <div class="hello">hoi hoi</div>
       </ion-content>
     ];
   }

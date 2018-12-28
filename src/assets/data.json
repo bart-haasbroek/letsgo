@@ -393,26 +393,26 @@
 		{
 			"id": 52,
 			"name": "Meowth",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Viridian City"
 		},
 		{
 			"id": 53,
 			"name": "Persian",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Rocket Hideout"
 		},
 		{
 			"id": 54,
 			"name": "Psyduck",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 21"
 		},
 		{
 			"id": 55,
 			"name": "Golduck",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 4"
 		},
 		{
 			"id": 56,
