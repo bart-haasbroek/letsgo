@@ -40,6 +40,8 @@ export class AppRoot {
 					<ion-route url="/master-trainers" component="app-master-trainers" />
 					<ion-route url="/coach-trainers" component="app-coach-trainers" />
 					<ion-route url="/in-app-trades" component="app-in-game-trades" />
+					<ion-route url="/outfits" component="app-outfits" />
+					<ion-route url="/megastones" component="app-megastones" />
 				</ion-router>
 				<ion-nav />
 			</ion-app>

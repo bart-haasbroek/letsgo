@@ -1,0 +1,9 @@
+.megastones {
+	.table__column {
+		justify-content: flex-start;
+
+		&:last-child {
+			flex: 0 0 62%;
+		}
+	}
+}

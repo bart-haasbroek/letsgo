@@ -16,7 +16,7 @@ export class AppTmCollection {
 					<ion-buttons slot="start">
 						<ion-back-button defaultHref="/" />
 					</ion-buttons>
-					<ion-title>Events</ion-title>
+					<ion-title>TM collection</ion-title>
 				</ion-toolbar>
 			</ion-header>,
 

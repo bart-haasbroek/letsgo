@@ -3,12 +3,12 @@ import * as Data from '../../assets/data.json';
 
 
 @Component({
-	tag: 'app-in-game-trades',
-	styleUrl: 'app-in-game-trades.scss'
+	tag: 'app-megastones',
+	styleUrl: 'app-megastones.scss'
 })
-export class AppInAppTrades {
+export class AppMegastones {
 	public data: any = Data;
-	@State() trades: any = this.data.inAppTrades;
+	@State() megastones: any = this.data.megastones;
 
 	render() {
 		console.log(this.data);
@@ -18,27 +18,27 @@ export class AppInAppTrades {
 					<ion-buttons slot="start">
 						<ion-back-button defaultHref="/" />
 					</ion-buttons>
-					<ion-title>In game trades</ion-title>
+					<ion-title>Megastones</ion-title>
 				</ion-toolbar>
 			</ion-header>,
 
 			<ion-content>
-				<div class="table in-game-trades">
+				<div class="table megastones">
 					<div class="table__row table__row--head">
 						<div class="table__column">
-							Trade
+							Stone
 						</div>
 						<div class="table__column">
 							location
 						</div>
 					</div>
-					{this.trades.map((trade: any) =>
+					{this.megastones.map((megastone: any) =>
 					<div class="table__row">
 						<div class="table__column">
-							{trade.trade}
+							{megastone.name}
 						</div>
 						<div class="table__column">
-							{trade.location}
+							{megastone.location}
 						</div>
 					</div>
 				)}

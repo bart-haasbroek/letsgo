@@ -28,6 +28,12 @@ export namespace Components {
   interface AppMasterTrainers {}
   interface AppMasterTrainersAttributes extends StencilHTMLAttributes {}
 
+  interface AppMegastones {}
+  interface AppMegastonesAttributes extends StencilHTMLAttributes {}
+
+  interface AppOutfits {}
+  interface AppOutfitsAttributes extends StencilHTMLAttributes {}
+
   interface AppProfile {
     'name': string;
   }
@@ -49,6 +55,8 @@ declare global {
     'AppHome': Components.AppHome;
     'AppInGameTrades': Components.AppInGameTrades;
     'AppMasterTrainers': Components.AppMasterTrainers;
+    'AppMegastones': Components.AppMegastones;
+    'AppOutfits': Components.AppOutfits;
     'AppProfile': Components.AppProfile;
     'AppRoot': Components.AppRoot;
     'AppTmCollection': Components.AppTmCollection;
@@ -60,6 +68,8 @@ declare global {
     'app-home': Components.AppHomeAttributes;
     'app-in-game-trades': Components.AppInGameTradesAttributes;
     'app-master-trainers': Components.AppMasterTrainersAttributes;
+    'app-megastones': Components.AppMegastonesAttributes;
+    'app-outfits': Components.AppOutfitsAttributes;
     'app-profile': Components.AppProfileAttributes;
     'app-root': Components.AppRootAttributes;
     'app-tm-collection': Components.AppTmCollectionAttributes;
@@ -96,6 +106,18 @@ declare global {
     new (): HTMLAppMasterTrainersElement;
   };
 
+  interface HTMLAppMegastonesElement extends Components.AppMegastones, HTMLStencilElement {}
+  var HTMLAppMegastonesElement: {
+    prototype: HTMLAppMegastonesElement;
+    new (): HTMLAppMegastonesElement;
+  };
+
+  interface HTMLAppOutfitsElement extends Components.AppOutfits, HTMLStencilElement {}
+  var HTMLAppOutfitsElement: {
+    prototype: HTMLAppOutfitsElement;
+    new (): HTMLAppOutfitsElement;
+  };
+
   interface HTMLAppProfileElement extends Components.AppProfile, HTMLStencilElement {}
   var HTMLAppProfileElement: {
     prototype: HTMLAppProfileElement;
@@ -120,6 +142,8 @@ declare global {
     'app-home': HTMLAppHomeElement
     'app-in-game-trades': HTMLAppInGameTradesElement
     'app-master-trainers': HTMLAppMasterTrainersElement
+    'app-megastones': HTMLAppMegastonesElement
+    'app-outfits': HTMLAppOutfitsElement
     'app-profile': HTMLAppProfileElement
     'app-root': HTMLAppRootElement
     'app-tm-collection': HTMLAppTmCollectionElement
@@ -131,6 +155,8 @@ declare global {
     'app-home': HTMLAppHomeElement;
     'app-in-game-trades': HTMLAppInGameTradesElement;
     'app-master-trainers': HTMLAppMasterTrainersElement;
+    'app-megastones': HTMLAppMegastonesElement;
+    'app-outfits': HTMLAppOutfitsElement;
     'app-profile': HTMLAppProfileElement;
     'app-root': HTMLAppRootElement;
     'app-tm-collection': HTMLAppTmCollectionElement;

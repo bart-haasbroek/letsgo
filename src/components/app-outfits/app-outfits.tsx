@@ -3,12 +3,12 @@ import * as Data from '../../assets/data.json';
 
 
 @Component({
-	tag: 'app-in-game-trades',
-	styleUrl: 'app-in-game-trades.scss'
+	tag: 'app-outfits',
+	styleUrl: 'app-outfits.scss'
 })
-export class AppInAppTrades {
+export class AppOutfits {
 	public data: any = Data;
-	@State() trades: any = this.data.inAppTrades;
+	@State() outfits: any = this.data.outfits;
 
 	render() {
 		console.log(this.data);
@@ -18,27 +18,27 @@ export class AppInAppTrades {
 					<ion-buttons slot="start">
 						<ion-back-button defaultHref="/" />
 					</ion-buttons>
-					<ion-title>In game trades</ion-title>
+					<ion-title>Outfits</ion-title>
 				</ion-toolbar>
 			</ion-header>,
 
 			<ion-content>
-				<div class="table in-game-trades">
+				<div class="table outfits">
 					<div class="table__row table__row--head">
 						<div class="table__column">
-							Trade
+							Outfit
 						</div>
 						<div class="table__column">
-							location
+							How to get
 						</div>
 					</div>
-					{this.trades.map((trade: any) =>
+					{this.outfits.map((outfit: any) =>
 					<div class="table__row">
 						<div class="table__column">
-							{trade.trade}
+							{outfit.name}
 						</div>
 						<div class="table__column">
-							{trade.location}
+							{outfit.location}
 						</div>
 					</div>
 				)}

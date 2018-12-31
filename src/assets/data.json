@@ -49,27 +49,27 @@
 	"coachTrainers": [
 		{
 			"name": "Kareem",
-			"location": "route 3",
+			"location": "Route 3",
 			"reward": "Revive"
 		},
 		{
 			"name": "Oberon",
-			"location": "route 4",
+			"location": "Route 4",
 			"reward": "TM57 Pay Day"
 		},
 		{
 			"name": "Amala",
-			"location": "route 25",
+			"location": "Route 25",
 			"reward": "TM15 Seismic Toss"
 		},
 		{
 			"name": "Will",
-			"location": "route 11",
+			"location": "Route 11",
 			"reward": "5x Pikachu / Eevee Candy"
 		},
 		{
 			"name": "Tasha",
-			"location": "route 10",
+			"location": "Route 10",
 			"reward": "TM13 Brick Break"
 		},
 		{
@@ -79,63 +79,68 @@
 		},
 		{
 			"name": "Alpesh",
-			"location": "route 7",
+			"location": "Route 7",
 			"reward": "TM12 Facade"
 		},
 		{
 			"name": "Priya",
-			"location": "route 4",
-			"reward": "TM57 Pay Day"
+			"location": "Route 12",
+			"reward": "TM59 Dream Eater"
+		},
+		{
+			"name": "Midge",
+			"location": "Route 15",
+			"reward": "TM31 Fire Punch"
 		},
 		{
 			"name": "Grantley",
-			"location": "route 25",
-			"reward": "TM15 Seismic Toss"
+			"location": "Route 17",
+			"reward": "TM58 Drill Run"
 		},
 		{
 			"name": "Yas",
-			"location": "route 11",
-			"reward": "5x Pikachu / Eevee Candy"
+			"location": "Seafoam Island",
+			"reward": "5x Rare Candy"
 		},
 		{
 			"name": "Leona",
-			"location": "route 10",
-			"reward": "TM13 Brick Break"
+			"location": "Saffron City Dojo",
+			"reward": "TM23 Thunder Punch"
 		},
 		{
 			"name": "Pam",
-			"location": "Pokemon Tower",
-			"reward": "5x Pikachu / Eevee Candy"
+			"location": "Route 21",
+			"reward": "TM35 Ice Punch"
 		},
 		{
 			"name": "Rita",
-			"location": "route 7",
-			"reward": "TM12 Facade"
+			"location": "Pokemon Mansion",
+			"reward": "TM22 Rock Slide"
 		},
 		{
 			"name": "Alemana",
-			"location": "route 11",
-			"reward": "5x Pikachu / Eevee Candy"
+			"location": "Victory Road",
+			"reward": "10x Pikachu / Eevee Candy"
 		},
 		{
 			"name": "Ryan",
-			"location": "route 10",
-			"reward": "TM13 Brick Break"
+			"location": "Victory Road",
+			"reward": "TM39 Outrage"
 		},
 		{
 			"name": "Harjit",
-			"location": "Pokemon Tower",
-			"reward": "5x Pikachu / Eevee Candy"
+			"location": "Cerulean City",
+			"reward": "TM60 Megahorn"
 		},
 		{
 			"name": "Mable",
-			"location": "route 7",
-			"reward": "TM12 Facade"
+			"location": "Power Plant",
+			"reward": "5x Rare Candy"
 		},
 		{
 			"name": "Morimoto",
-			"location": "route 7",
-			"reward": "TM12 Facade"
+			"location": "Celadon City",
+			"reward": "10 x PP Max"
 		}
 	],
 	"masterTrainers": [
@@ -1458,6 +1463,165 @@
 			"tm": "TM60",
 			"name": "Megahorn",
 			"location": "Defeat Coach Trainer in front of Cerulean Cave after defeating Pokemon League"
+		}
+	],
+	"megastones": [
+		{
+			"id": "1",
+			"name": "Blastoisinite",
+			"location": "After defeating Blaine at the Cinnabar Island Gym, you can receive it from Blue in Pallet Town."
+		},
+		{
+			"id": "2",
+			"name": "Charizadite X",
+			"location": "After defeating Blaine at the Cinnabar Island Gym, you can receive it from Blue in Pallet Town."
+		},
+		{
+			"id": "3",
+			"name": "Charizadite X",
+			"location": "After defeating Blaine at the Cinnabar Island Gym, you can receive it from Blue in Pallet Town."
+		},
+		{
+			"id": "4",
+			"name": "Charizardite Y",
+			"location": "After defeating Blaine at the Cinnabar Island Gym, you can receive it from Blue in Pallet Town."
+		},
+		{
+			"id": "5",
+			"name": "Mewtwonite X",
+			"location": "After catching Mewtwo and defeating Green you recieved it her in the Cerulean Cave."
+		},
+		{
+			"id": "6",
+			"name": "Mewtwonite Y",
+			"location": "After catching Mewtwo and defeating Green you recieved it her in the Cerulean Cave."
+		},
+		{
+			"id": "7",
+			"name": "Venusaurite",
+			"location": "After defeating Blaine at the Cinnabar Island Gym, you can receive it from Blue in Pallet Town."
+		},
+		{
+			"id": "8",
+			"name": "Aerodactylite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "9",
+			"name": "Alakazite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "10",
+			"name": "Beedrillite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "11",
+			"name": "Gengarite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "12",
+			"name": "Gyaradosite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "13",
+			"name": "Kangaskhanite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "14",
+			"name": "Pinsirite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		},
+		{
+			"id": "15",
+			"name": "Slowbronite",
+			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+		}
+	],
+	"outfits": [
+		{
+			"id": 1,
+			"name": "Assistant Set",
+			"location": "Received from Professor Oak’s Aide in Fuschsia City gate if 50 species of Pokémon registered."
+		},
+		{
+			"id": 2,
+			"name": "Formal Set",
+			"location": "Received from a woman in Pokémon Tower 1F."
+		},
+		{
+			"id": 3,
+			"name": "Police Set",
+			"location": "Received from an Officer in Saffron City."
+		},
+		{
+			"id": 4,
+			"name": "Safari Set",
+			"location": "Received once you give the Gold Teeth to the Warden in Fuchsia City."
+		},
+		{
+			"id": 5,
+			"name": "Sailor Set",
+			"location": "Received from a Sailor before you board the S.S. Anne."
+		},
+		{
+			"id": 6,
+			"name": "Sportswear Set",
+			"location": "Received once you leave Pallet Town for the first time."
+		},
+		{
+			"id": 7,
+			"name": "Team Rocket Set",
+			"location": "Received from Team Rocket Spy in the Rocket Hideout."
+		},
+		{
+			"id": 8,
+			"name": "Raichu Set (Exclusive to Pikachu)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Pikachu."
+		},
+		{
+			"id": 9,
+			"name": "Espeon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club President in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 10,
+			"name": "Flareon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club President in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 11,
+			"name": "Umbreon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 12,
+			"name": "Vaporeon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 13,
+			"name": "Sylveon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 14,
+			"name": "Glaceon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 15,
+			"name": "Jolteon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Eevee."
+		},
+		{
+			"id": 16,
+			"name": "Leafeon Set (Exclusive to Eevee)",
+			"location": "Received from the Pokémon Fan Club president in Vermilion City if you are best friends with Eevee."
 		}
 	]
 }
