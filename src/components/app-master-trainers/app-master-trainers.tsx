@@ -47,7 +47,7 @@ export class AppMasterTrainers {
 						location
 					</div>
 					<div class="table__column">
-						Reward
+						Done
 					</div>
 				</div>
 				{this.masterTrainers.map((trainer) =>
