@@ -23,8 +23,8 @@ export class AppInAppTrades {
 			</ion-header>,
 
 			<ion-content>
-				<div class="table">
-					<div class="table__row">
+				<div class="table in-game-trades">
+					<div class="table__row table__row--head">
 						<div class="table__column">
 							Trade
 						</div>

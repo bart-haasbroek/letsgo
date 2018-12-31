@@ -1,0 +1,9 @@
+.in-game-trades {
+	.table__row {
+		justify-content: space-between;
+	}
+	.table__column {
+		justify-content: flex-start;
+		flex: 0 0 45%;
+	}
+}

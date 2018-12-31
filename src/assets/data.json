@@ -161,25 +161,25 @@
 			"id": 4,
 			"name": "Charmander",
 			"level": 65,
-			"location": "Celadon city"
+			"location": "Celadon City"
 		},
 		{
 			"id": 5,
 			"name": "Charmeleon",
 			"level": 70,
-			"location": "Route 10"
+			"location": "Route 10 "
 		},
 		{
 			"id": 6,
 			"name": "Charizard",
 			"level": 75,
-			"location": "Route 23"
+			"location": "Route 23 "
 		},
 		{
 			"id": 7,
 			"name": "Squirtle",
 			"level": 65,
-			"location": "Route 12"
+			"location": "Route 12 "
 		},
 		{
 			"id": 8,
@@ -209,79 +209,79 @@
 			"id": 12,
 			"name": "Butterfree",
 			"level": 75,
-			"location": "Route 2"
+			"location": "Route 2 "
 		},
 		{
 			"id": 13,
 			"name": "Weedle",
 			"level": 65,
-			"location": "Viridian Forest"
+			"location": "Viridian Forest "
 		},
 		{
 			"id": 14,
 			"name": "Kakuna",
 			"level": 70,
-			"location": "Route 13"
+			"location": "Route 13 "
 		},
 		{
 			"id": 15,
 			"name": "Beedrill",
 			"level": 75,
-			"location": "Route 8"
+			"location": "Route 8 "
 		},
 		{
 			"id": 16,
 			"name": "Pidgey",
 			"level": 65,
-			"location": "Route 2"
+			"location": "Route 2 "
 		},
 		{
 			"id": 17,
 			"name": "Pidgeotto",
 			"level": 70,
-			"location": "Route 16"
+			"location": "Route 16 "
 		},
 		{
 			"id": 18,
 			"name": "Pidgeot",
 			"level": 75,
-			"location": "Route 12"
+			"location": "Route 12 "
 		},
 		{
 			"id": 19,
 			"name": "Rattata",
 			"level": 65,
-			"location": "Route 10"
+			"location": "Route 10 "
 		},
 		{
 			"id": 20,
 			"name": "Raticate",
 			"level": 75,
-			"location": "Cerulean City"
+			"location": "Cerulean City "
 		},
 		{
 			"id": 21,
 			"name": "Spearow",
 			"level": 70,
-			"location": "Pewter City"
+			"location": "Pewter City "
 		},
 		{
 			"id": 22,
 			"name": "Fearow",
 			"level": 80,
-			"location": "Route 18"
+			"location": "Route 18 "
 		},
 		{
 			"id": 23,
 			"name": "Ekans",
 			"level": 70,
-			"location": "Route 4"
+			"location": "Route 4 "
 		},
 		{
 			"id": 24,
 			"name": "Arbok",
 			"level": 75,
-			"location": "Rocket Hideout"
+			"location": "Rocket Hideout "
 		},
 		{
 			"id": 25,
@@ -309,7 +309,7 @@
 		},
 		{
 			"id": 29,
-			"name": "Nidoran (female)",
+			"name": "Nidoran",
 			"level": 65,
 			"location": "Route 3"
 		},
@@ -327,7 +327,7 @@
 		},
 		{
 			"id": 32,
-			"name": "Nidoran (male)",
+			"name": "Nidoran",
 			"level": 70,
 			"location": "Route 4"
 		},
@@ -335,25 +335,25 @@
 			"id": 33,
 			"name": "Nidorino",
 			"level": 75,
-			"location": "Route 4"
+			"location": "Underground Path 7- 8"
 		},
 		{
 			"id": 34,
 			"name": "Nidoking",
 			"level": 80,
-			"location": "Route 23"
+			"location": "Route 23 "
 		},
 		{
 			"id": 35,
 			"name": "Clefairy",
 			"level": 70,
-			"location": "Saffron City"
+			"location": "Saffron City "
 		},
 		{
 			"id": 36,
 			"name": "Clefable",
 			"level": 80,
-			"location": "Mt. Moon"
+			"location": "Mt. Moon "
 		},
 		{
 			"id": 37,
@@ -365,79 +365,79 @@
 			"id": 38,
 			"name": "Ninetales",
 			"level": 75,
-			"location": "Route 9"
+			"location": "Route 9 "
 		},
 		{
 			"id": 39,
 			"name": "Jigglypuff",
 			"level": 70,
-			"location": "Pewter City"
+			"location": "Pewter City "
 		},
 		{
 			"id": 40,
 			"name": "Wigglytuff",
 			"level": 75,
-			"location": "Silph Co."
+			"location": "Silph Co. "
 		},
 		{
 			"id": 41,
 			"name": "Zubat",
 			"level": 70,
-			"location": "Rock Tunnel"
+			"location": "Rock Tunnel "
 		},
 		{
 			"id": 42,
 			"name": "Golbat",
 			"level": 75,
-			"location": "Victory Road"
+			"location": "Victory Road "
 		},
 		{
 			"id": 43,
 			"name": "Oddish",
 			"level": 65,
-			"location": "Viridian City"
+			"location": "Viridian City "
 		},
 		{
 			"id": 44,
 			"name": "Gloom",
 			"level": 70,
-			"location": "Pewter City"
+			"location": "Pewter City "
 		},
 		{
 			"id": 45,
 			"name": "Vileplume",
 			"level": 75,
-			"location": "Route 14"
+			"location": "Route 14 "
 		},
 		{
 			"id": 46,
 			"name": "Paras",
 			"level": 70,
-			"location": "Mt. Moon"
+			"location": "Mt. Moon "
 		},
 		{
 			"id": 47,
 			"name": "Parasect",
 			"level": 75,
-			"location": "Route 2"
+			"location": "Route 2 "
 		},
 		{
 			"id": 48,
 			"name": "Venonat",
 			"level": 70,
-			"location": "Route 24"
+			"location": "Route 24 "
 		},
 		{
 			"id": 49,
 			"name": "Venomoth",
 			"level": 75,
-			"location": "Route 15"
+			"location": "Route 15 "
 		},
 		{
 			"id": 50,
 			"name": "Diglett",
 			"level": 70,
-			"location": "Diglett’s Cave"
+			"location": "Diglett’s Cave "
 		},
 		{
 			"id": 51,
@@ -466,584 +466,584 @@
 		{
 			"id": 55,
 			"name": "Golduck",
-			"level": 70,
+			"level": 75,
 			"location": "Route 4"
 		},
 		{
 			"id": 56,
 			"name": "Mankey",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 5"
 		},
 		{
 			"id": 57,
 			"name": "Primeape",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 11"
 		},
 		{
 			"id": 58,
 			"name": "Growlithe",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 7"
 		},
 		{
 			"id": 59,
 			"name": "Arcanine",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Celadon City"
 		},
 		{
 			"id": 60,
 			"name": "Poliwag",
 			"level": 65,
-			"location": "Route"
+			"location": "Route 12"
 		},
 		{
 			"id": 61,
 			"name": "Poliwhirl",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Cerulean City"
 		},
 		{
 			"id": 62,
 			"name": "Poliwrath",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Cerulean City"
 		},
 		{
 			"id": 63,
 			"name": "Abra",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Viridian City"
 		},
 		{
 			"id": 64,
 			"name": "Kadabra",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Saffron City"
 		},
 		{
 			"id": 65,
 			"name": "Alakazam",
-			"level": 65,
-			"location": "Route"
+			"level": 80,
+			"location": "Route 10"
 		},
 		{
 			"id": 66,
 			"name": "Machop",
 			"level": 65,
-			"location": "Route"
+			"location": "Silph Co."
 		},
 		{
 			"id": 67,
 			"name": "Machoke",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Fuchsia City"
 		},
 		{
 			"id": 68,
 			"name": "Machamp",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Vermilion City"
 		},
 		{
 			"id": 69,
 			"name": "Bellsprout",
 			"level": 65,
-			"location": "Route"
+			"location": "Viridian City"
 		},
 		{
 			"id": 70,
 			"name": "Weepinbell",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Pokémon Tower"
 		},
 		{
 			"id": 71,
 			"name": "Victreebel",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Celadon City "
 		},
 		{
 			"id": 72,
 			"name": "Tentacool",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 20 "
 		},
 		{
 			"id": 73,
 			"name": "Tentacruel",
-			"level": 65,
-			"location": "Route"
+			"level": 80,
+			"location": "Route 20 "
 		},
 		{
 			"id": 74,
 			"name": "Geodude",
 			"level": 65,
-			"location": "Route"
+			"location": "Rock Tunnel "
 		},
 		{
 			"id": 75,
 			"name": "Graveler",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Victory Road "
 		},
 		{
 			"id": 76,
 			"name": "Golem",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pewter City"
 		},
 		{
 			"id": 77,
 			"name": "Ponyta",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Saffron City"
 		},
 		{
 			"id": 78,
 			"name": "Rapidash",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Saffron City"
 		},
 		{
 			"id": 79,
 			"name": "Slowpoke",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 21"
 		},
 		{
 			"id": 80,
 			"name": "Slowbro",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 21"
 		},
 		{
 			"id": 81,
 			"name": "Magnemite",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Underground Path 5-6"
 		},
 		{
 			"id": 82,
 			"name": "Magneton",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Underground Path 5-6"
 		},
 		{
 			"id": 83,
 			"name": "Farfetch'd",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Vermilion City "
 		},
 		{
 			"id": 84,
 			"name": "Doduo",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Cerulean City "
 		},
 		{
 			"id": 85,
 			"name": "Dodrio",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 15"
 		},
 		{
 			"id": 86,
 			"name": "Seel",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Seafoam Island "
 		},
 		{
 			"id": 87,
 			"name": "Dewgong",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Seafoam Island "
 		},
 		{
 			"id": 88,
 			"name": "Grimer",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Celadon City"
 		},
 		{
 			"id": 89,
 			"name": "Muk",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pokemon Mansion "
 		},
 		{
 			"id": 90,
 			"name": "Shellder",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 19 "
 		},
 		{
 			"id": 91,
 			"name": "Cloyster",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 20"
 		},
 		{
 			"id": 92,
 			"name": "Gastly",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Lavender Town "
 		},
 		{
 			"id": 93,
 			"name": "Haunter",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Lavender Town "
 		},
 		{
 			"id": 94,
 			"name": "Gengar",
-			"level": 65,
-			"location": "Route"
+			"level": 80,
+			"location": "Lavender Town "
 		},
 		{
 			"id": 95,
 			"name": "Onix",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Underground Path 7-8 "
 		},
 		{
 			"id": 96,
 			"name": "Drowzee",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Viridian City "
 		},
 		{
 			"id": 97,
 			"name": "Hypno",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pokémon Tower "
 		},
 		{
 			"id": 98,
 			"name": "Krabby",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Vermilion City "
 		},
 		{
 			"id": 99,
 			"name": "Kingler",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Silph Co."
 		},
 		{
 			"id": 100,
 			"name": "Voltorb",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Power Plant "
 		},
 		{
 			"id": 101,
 			"name": "Electrode",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 16"
 		},
 		{
 			"id": 102,
 			"name": "Exeggcute",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 24 "
 		},
 		{
 			"id": 103,
 			"name": "Exeggutor",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Cinnabar Island "
 		},
 		{
 			"id": 104,
 			"name": "Cubone",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 8 "
 		},
 		{
 			"id": 105,
 			"name": "Marowak",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Lavender Town "
 		},
 		{
 			"id": 106,
 			"name": "Hitmonlee",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Saffron City "
 		},
 		{
 			"id": 107,
 			"name": "Hitmonchan",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Saffron City "
 		},
 		{
 			"id": 108,
 			"name": "Lickitung",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 16 "
 		},
 		{
 			"id": 109,
 			"name": "Koffing",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 17 "
 		},
 		{
 			"id": 110,
 			"name": "Weezing",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Rocket Hideout "
 		},
 		{
 			"id": 111,
 			"name": "Rhyhorn",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 17 "
 		},
 		{
 			"id": 112,
 			"name": "Rhydon",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Rocket Hideout "
 		},
 		{
 			"id": 113,
 			"name": "Chansey",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Fuchsia City "
 		},
 		{
 			"id": 114,
 			"name": "Tangela",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 15 "
 		},
 		{
 			"id": 115,
 			"name": "Kangaskhan",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Fuchsia City "
 		},
 		{
 			"id": 116,
 			"name": "Horsea",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 19 "
 		},
 		{
 			"id": 117,
 			"name": "Seadra",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 12 "
 		},
 		{
 			"id": 118,
 			"name": "Goldeen",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 12 "
 		},
 		{
 			"id": 119,
 			"name": "Seaking",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 13 "
 		},
 		{
 			"id": 120,
 			"name": "Staryu",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Route 19"
 		},
 		{
 			"id": 121,
 			"name": "Starmie",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 25"
 		},
 		{
 			"id": 122,
 			"name": "Mr. Mime",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Celadon City"
 		},
 		{
 			"id": 123,
 			"name": "Scyther",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 15"
 		},
 		{
 			"id": 124,
 			"name": "Jynx",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Cerulean City"
 		},
 		{
 			"id": 125,
 			"name": "Electabuzz",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 10"
 		},
 		{
 			"id": 126,
 			"name": "Magmar",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pokemon Mansion"
 		},
 		{
 			"id": 127,
 			"name": "Pinsir",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 18 "
 		},
 		{
 			"id": 128,
 			"name": "Tauros",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Fuchsia City "
 		},
 		{
 			"id": 129,
 			"name": "Magikarp",
 			"level": 65,
-			"location": "Route"
+			"location": "Route 4 "
 		},
 		{
 			"id": 130,
 			"name": "Gyarados",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Celadon City"
 		},
 		{
 			"id": 131,
 			"name": "Lapras",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pokémon Tower"
 		},
 		{
 			"id": 132,
 			"name": "Ditto",
-			"level": 65,
-			"location": "Route"
+			"level": "CP",
+			"location": "Pokemon Mansion"
 		},
 		{
 			"id": 133,
 			"name": "Eevee",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 17"
 		},
 		{
 			"id": 134,
 			"name": "Vaporeon",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Celadon City"
 		},
 		{
 			"id": 135,
 			"name": "Jolteon",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Celadon City"
 		},
 		{
 			"id": 136,
 			"name": "Flareon",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Celadon City"
 		},
 		{
 			"id": 137,
 			"name": "Porygon",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Celadon City"
 		},
 		{
 			"id": 138,
 			"name": "Omanyte",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Mt. Moon"
 		},
 		{
 			"id": 139,
 			"name": "Omastar",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Cinnabar Island"
 		},
 		{
 			"id": 140,
 			"name": "Kabuto",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Mt. Moon"
 		},
 		{
 			"id": 141,
 			"name": "Kabutops",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pewter City"
 		},
 		{
 			"id": 142,
 			"name": "Aerodactyl",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Pewter City"
 		},
 		{
 			"id": 143,
 			"name": "Snorlax",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Route 16"
 		},
 		{
 			"id": 144,
 			"name": "Articuno",
-			"level": 65,
-			"location": "Route"
+			"level": "CP",
+			"location": "Seafoam Island"
 		},
 		{
 			"id": 145,
 			"name": "Zapdos",
-			"level": 65,
-			"location": "Route"
+			"level": "CP",
+			"location": "Power Plant"
 		},
 		{
 			"id": 146,
 			"name": "Moltres",
-			"level": 65,
-			"location": "Route"
+			"level": "CP",
+			"location": "Victory Road"
 		},
 		{
 			"id": 147,
 			"name": "Dratini",
 			"level": 65,
-			"location": "Route"
+			"location": "Route 23"
 		},
 		{
 			"id": 148,
 			"name": "Dragonair",
-			"level": 65,
-			"location": "Route"
+			"level": 70,
+			"location": "Seafoam Island"
 		},
 		{
 			"id": 149,
 			"name": "Dragonite",
-			"level": 65,
-			"location": "Route"
+			"level": 75,
+			"location": "Cerulean City"
 		},
 		{
 			"id": 150,
 			"name": "Mewtwo",
-			"level": 65,
-			"location": "Route"
+			"level": "CP",
+			"location": "Pokemon Mansion"
 		},
 		{
 			"id": 151,
 			"name": "Mew",
-			"level": 65,
-			"location": "Route"
+			"level": "CP",
+			"location": "Pokemon Mansion"
 		}
 	],
 	"inAppTrades": [

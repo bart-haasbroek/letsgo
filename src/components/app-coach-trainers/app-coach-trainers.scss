@@ -1,3 +1,13 @@
-.hello {
-	color: red;
+.coach-trainers {
+	.table__column {
+		justify-content: flex-start;
+
+		&:last-child {
+			flex: 0 0 45%;
+		}
+
+		&:first-child {
+			flex: 0 0 80px;
+		}
+	}
 }
