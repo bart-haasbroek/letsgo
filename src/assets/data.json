@@ -1069,12 +1069,12 @@
 		},
 		{
 			"id": 4,
-			"trade": "Sandshrew for Alola Sandshrew (pikachu version)",
+			"trade": "Sandshrew for Alola Sandshrew (Pikachu version)",
 			"location": "Pokecenter Celadon city"
 		},
 		{
 			"id": 5,
-			"trade": "Vulpix for Alola Vulpix (eevee version)",
+			"trade": "Vulpix for Alola Vulpix (Eevee version)",
 			"location": "Pokecenter Celadon city"
 		},
 		{
@@ -1089,12 +1089,12 @@
 		},
 		{
 			"id": 8,
-			"trade": "Grimer for Alola Grimer (pikachu version)",
+			"trade": "Grimer for Alola Grimer (Pikachu version)",
 			"location": "Pokecenter Cinnabar island"
 		},
 		{
 			"id": 9,
-			"trade": "Meowth for Alola Meowth (eevee version)",
+			"trade": "Meowth for Alola Meowth (Eevee version)",
 			"location": "Pokecenter Cinnabar island"
 		},
 		{
@@ -1489,12 +1489,12 @@
 		{
 			"id": "5",
 			"name": "Mewtwonite X",
-			"location": "After catching Mewtwo and defeating Green you recieved it her in the Cerulean Cave."
+			"location": "After catching Mewtwo and defeating Green you recieve it from her in the Cerulean Cave."
 		},
 		{
 			"id": "6",
 			"name": "Mewtwonite Y",
-			"location": "After catching Mewtwo and defeating Green you recieved it her in the Cerulean Cave."
+			"location": "After catching Mewtwo and defeating Green you recieve it from her in the Cerulean Cave."
 		},
 		{
 			"id": "7",
@@ -1504,42 +1504,42 @@
 		{
 			"id": "8",
 			"name": "Aerodactylite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "9",
 			"name": "Alakazite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "10",
 			"name": "Beedrillite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "11",
 			"name": "Gengarite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "12",
 			"name": "Gyaradosite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "13",
 			"name": "Kangaskhanite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "14",
 			"name": "Pinsirite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		},
 		{
 			"id": "15",
 			"name": "Slowbronite",
-			"location": "Buy it for 30.000 at in Indigo Plateau (after defeating the elite four)"
+			"location": "You can buy it for 30.000 at the Indigo Plateau (after defeating the elite four)"
 		}
 	],
 	"outfits": [
