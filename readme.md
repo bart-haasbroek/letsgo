@@ -1,7 +1,8 @@
-# Lets go eevee guide
+# Lets go Eevee guide
 A small app which provides a guide for the games Lets go Eevee and Lets go Pikachu for Nintendo Switch.
-This is also a project to try out the ionic stencil framework.
-The app can be found here: pokemonletsgo.netlify.app
+This is also a project to try out the ionic stencil framework and the layout is made for mobile devices.
+
+The app can be found here: https://pokemonletsgo.netlify.app
 
 # Ionic PWA Toolkit Beta
 
